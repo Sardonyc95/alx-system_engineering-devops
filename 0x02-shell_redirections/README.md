@@ -3,4 +3,5 @@
 - The script {echo "(Ôo)'} is also used to display a confused smiley.
 - The script {cat /etc/passwd} is used to display the content of the file /etc/passwd.
 - The script {cat /etc/passwd /etc/hosts} is used to display the content of the files /etc/passwd /etc/hosts.
-- The script {tail /etc/passwd} is used to display the last10 lines of the file /etc/passwd. 
+- The script {tail /etc/passwd} is used to display the last 10 lines of the file /etc/passwd.
+- The script {head /etc/passwd} is used to display the first 10 lines of the file /etc/passwd.  
