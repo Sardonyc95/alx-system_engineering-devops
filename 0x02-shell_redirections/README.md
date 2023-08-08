@@ -19,3 +19,4 @@
 - The script {grep -v "bin" /etc/passwd} is used display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 - The script {grep -i '^[a-z]' /etc/ssh/sshd_config} is used to display all lines of the file /etc/ssh/sshd_config starting with a letter.include capital letters as well.
 - The script {tr "A" "Z" | "c" "e"} is used to replace all characters A and c from input to Z and e respectively.
+- The script {tr -d "Cc"} is used to removes all letters c and C from input.
