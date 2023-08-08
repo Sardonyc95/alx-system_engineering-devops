@@ -16,3 +16,4 @@
 - The script {grep -i "root" /etc/passwd} is used to display lines containing the pattern “root” from the file /etc/passwd.
 - The script {grep -i "bin" /etc/passwd | wc -l} is used to display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 - The script {grep -iA 3 "root" /etc/passwd} is used display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+- The script {grep -v "bin" /etc/passwd} is used display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
