@@ -14,3 +14,4 @@
 - The script {ls -t1 | head} is used to Create a script that displays the 10 newest files in the current directory. One file per line and Sorted from the newest to the oldest.
 - The script {sort | uniq -u} is used takes a list of words as input and prints only words that appear exactly once. Input format& Output format: One line, one word and words should be sorted.
 - The script {grep -i "root" /etc/passwd} is used to display lines containing the pattern “root” from the file /etc/passwd.
+- The script {grep -i "bin" /etc/passwd | wc -l} is used to display the number of lines that contain the pattern “bin” in the file /etc/passwd.
