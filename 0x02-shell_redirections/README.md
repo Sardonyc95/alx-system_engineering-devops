@@ -21,3 +21,4 @@
 - The script {tr "A" "Z" | "c" "e"} is used to replace all characters A and c from input to Z and e respectively.
 - The script {tr -d "Cc"} is used to removes all letters c and C from input.
 - The script {rev} is used reverse its input.
+- The script {cut -d ":" -f1,6 /etc/passwd | sort} is used to displays all users and their home directories, sorted by users based on the /etc/passwd file.
