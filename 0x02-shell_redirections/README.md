@@ -22,3 +22,4 @@
 - The script {tr -d "Cc"} is used to removes all letters c and C from input.
 - The script {rev} is used reverse its input.
 - The script {cut -d ":" -f1,6 /etc/passwd | sort} is used to displays all users and their home directories, sorted by users based on the /etc/passwd file.
+- The script {find . -empty | rev | cut -d '/' -f 1 | rev} is used to finds all empty files and directories in the current directory and all sub-directories. Only the names of the files and directories should be displayed (not the entire path), Hidden files should be listed, One file name per line, The listing should end with a new line, You are not allowed to use basename, grep, egrep, fgrep or rgrep.
