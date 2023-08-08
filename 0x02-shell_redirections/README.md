@@ -31,3 +31,4 @@ One file name per line
 The listing should end with a new line
 You are not allowed to use basename, grep, egrep, fgrep or rgrep.
 - The script {cut -c 1 | paste -s -d ''} is used decodes acrostics that use the first letter of each line. The ‘decoded’ message has to end with a new line, You are not allowed to use grep, egrep, fgrep or rgrep.
+- The script {tail -n +2 | cut -f -1 | sort -k 1 | uniq -c | sork -rnk 1 |  head -n 11 | rev | cut -d ' ' -f -1 | rev} is used to parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. Order by number of requests, most active host or IP at the top, You are not allowed to use grep, egrep, fgrep or rgrep.
