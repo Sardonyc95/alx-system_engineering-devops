@@ -6,4 +6,5 @@
 - The script {tail /etc/passwd} is used to display the last 10 lines of the file /etc/passwd.
 - The script {head /etc/passwd} is used to display the first 10 lines of the file /etc/passwd.
 - The script {head -3 iacta | tail -1} is used to display the 3 line of the file iacta.
-- The script {echo 'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'} is used to create a file containing the text.  
+- The script {echo 'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'} is used to create a file containing the text.
+- Updated script  
