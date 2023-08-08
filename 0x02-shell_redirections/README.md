@@ -10,3 +10,4 @@
 - The script {ls -la > ls_cwd_content} is used to overwrite into the file ls_cwd_content.
 - The script {tail -n 1 < iacta >> iacta} is used to duplicate the last line of the file iacta.
 - The script {find . -type f -name "*.js" -delete} is used to deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+- The script {find . -type d -not -name '.' | wc -l} is used counts the number of directories and sub-directories in the current directory.The current and parent directories should not be taken into account, also Hidden directories should be counted.
