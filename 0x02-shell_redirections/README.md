@@ -20,3 +20,4 @@
 - The script {grep -i '^[a-z]' /etc/ssh/sshd_config} is used to display all lines of the file /etc/ssh/sshd_config starting with a letter.include capital letters as well.
 - The script {tr "A" "Z" | "c" "e"} is used to replace all characters A and c from input to Z and e respectively.
 - The script {tr -d "Cc"} is used to removes all letters c and C from input.
+- The script {rev} is used reverse its input.
