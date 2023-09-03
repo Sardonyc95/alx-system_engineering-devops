@@ -1,4 +1,4 @@
-# Alx System Engineering Development
+# System Engineering Development
                               PROJECTS
 ## 0x00. Shell, basics
 ### Learning Objectives:
