@@ -1,7 +1,7 @@
 # System Engineering Development
                               PROJECTS
 ## 0x00. Shell, basics
-### Learning Objectives:
+### Learning Objectives: [DevOps, Shell, Bash]
 - What does RTFM mean?
 - What is a Shebang
 #### What is the Shell
@@ -47,8 +47,9 @@
 #### LTS
 - What does LTS mean?
 
+
 ## 0x01. Shell, permissions
-### Learning Objectives:
+### Learning Objectives: [DevOps, Shell, Bash]
 #### Permissions
 - What do the commands chmod, sudo, su, chown, chgrp do
 - Linux file permissions
@@ -64,8 +65,9 @@
 - How to print the groups a user is in
 - How to print the effective userid
 
+
 ## 0x02. Shell, I/O Redirections and filters
-### Learning Objectives:
+### Learning Objectives: [DevOps, Shell, Bash]
 #### Shell, I/O Redirection
 - What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 - How to redirect standard output to a file
@@ -83,8 +85,9 @@
 - What is the /etc/passwd file and what is its format
 - What is the /etc/shadow file and what is its format
 
+
 ## 0x03. Shell, init files, variables and expansions
-### Learning Objectives:
+### Learning Objectives: [DevOps, Shell, Bash]
 - What happens when you type $ ls -l *.txt
 #### Shell Initialization Files
 - What are the /etc/profile file and the /etc/profile.d directory
@@ -108,3 +111,22 @@
 - How to temporarily disable an alias
 #### Other help pages
 - How to execute commands from a file in the current shell
+
+
+## 0x04. Loops, conditions and parsing
+### Learning Objectives: [DevOps, Shell, Bash, Scripting]
+- How to create SSH keys
+- What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
+- How to use while, until and for loops
+- How to use if, else, elif and case condition statements
+- How to use the cut command
+- What are files and other comparison operators, and how to use them
+
+## 0x05. Processes and signals
+### Learning Objectives: [DevOps, Shell, Bash, Syscall, Scripting]
+- What is a PID
+- What is a process
+- How to find a process’ PID
+- How to kill a process
+- What is a signal
+- What are the 2 signals that cannot be ignored
