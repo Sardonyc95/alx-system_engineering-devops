@@ -130,3 +130,12 @@
 - How to kill a process
 - What is a signal
 - What are the 2 signals that cannot be ignored
+
+## 0x06. Regular expression
+### Learning Objectives: [Regex, DevOps]
+> Concepts
+For this project, we expect you to look at this concept:
+- Regular Expression: https://intranet.alxswe.com/concepts/29
+
+> Background Context
+For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
