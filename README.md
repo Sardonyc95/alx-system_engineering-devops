@@ -1,5 +1,7 @@
-# System Engineering Development
+# System Engineering Development & Operations
                               PROJECTS
+
+> System Engineering & DevOps - Bash
 ## 0x00. Shell, basics
 ### Learning Objectives: [DevOps, Shell, Bash]
 - What does RTFM mean?
@@ -122,6 +124,7 @@
 - How to use the cut command
 - What are files and other comparison operators, and how to use them
 
+
 ## 0x05. Processes and signals
 ### Learning Objectives: [DevOps, Shell, Bash, Syscall, Scripting]
 - What is a PID
@@ -131,6 +134,8 @@
 - What is a signal
 - What are the 2 signals that cannot be ignored
 
+
+                    System Engineering & DevOps - Scripting
 ## 0x06. Regular expression
 ### Learning Objectives: [Regex, DevOps]
 > Concepts
@@ -140,6 +145,8 @@ For this project, we expect you to look at this concept:
 > Background Context
 For this project, you have to build your regular expression using Oniguruma, a regular expression library that which is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
 
+
+                     System Engineering & DevOps - Networking
 ## 0x07. Networking basics #0
 ### Learning Objectives: DevOps, Network
 #### OSI Model
@@ -164,3 +171,11 @@ For this project, you have to build your regular expression using Oniguruma, a r
 - What is a port
 - Memorize SSH, HTTP and HTTPS port numbers
 - What tool/protocol is often used to check if a device is connected to a network
+
+
+## 0x08. Networking basics #1
+### Learning Objectives: [DevOps, Network, SysAdmin]
+- What is localhost/127.0.0.1
+- What is 0.0.0.0
+- What is /etc/hosts
+- How to display your machine’s active network interfaces
