@@ -179,3 +179,11 @@ For this project, you have to build your regular expression using Oniguruma, a r
 - What is 0.0.0.0
 - What is /etc/hosts
 - How to display your machine’s active network interfaces
+
+## 0x09. Web infrastructure design
+### Learning Objectives: [DevOps, SysAdmin, web infrastructure]
+- You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects
+- You must be able to explain what each component is doing
+- You must be able to explain system redundancy
+- Know all the mentioned acronyms: LAMP, SPOF, QPS
+
